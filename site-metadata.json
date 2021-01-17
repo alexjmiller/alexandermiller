@@ -1,7 +1,7 @@
 {
-    "description": "A portfolio theme with a blog",
+    "description": "Alexander Miller - UX Designer",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "violet",
     "header": {
         "title": "ALEXANDER MILLER",
         "has_nav": true,
@@ -9,6 +9,11 @@
             {
                 "label": "Home",
                 "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
                 "style": "link"
             },
             {
@@ -22,16 +27,6 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
@@ -39,7 +34,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Alexander Miller. All rights reserved.",
+        "content": "&copy; Alexander Miller 2021. All rights reserved.",
         "has_social": true,
         "social_links": [
             {
@@ -72,5 +67,5 @@
             }
         ]
     },
-    "title": "Stackbit Exto Theme"
+    "title": "Alexander Miller - UX Designer"
 }
