@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Alexander a UX Designer'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I have been developing digital tools to help people connect for over 20
+      years for Compaq/HP, American Express, NHS and Others. 
     actions:
       - label: Let's talk
         url: /contact
